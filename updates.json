@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "bookxnote-pro-opener@sun-5-21.github.io": {
+      "updates": [
+        {
+          "version": "1.0.3",
+          "update_link": "https://github.com/Sun-5-21/zotero-bookxnote/releases/download/v1.0.3/bookxnote-zotero-opener.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "9.0",
+              "strict_max_version": "9.0.*"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
